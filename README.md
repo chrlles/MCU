@@ -1,7 +1,7 @@
 # Maiores Receitas e  Bilheterias MCU
 <br>
 - Pequenos ajustes nos dados, data lançamento: __datetime__, e __pd.to_numeric__ para converter o formato dos números de Bilheteria;<br>
-- Perguntas e respostas sobre os filmes lançados pela Marvel Studios;
+- Perguntas e respostas sobre os filmes lançados pela Marvel Studios;<br>
 - Qual a Fase mais faturou com bilheteria?<br>
 - A fase que teve mais avaliação positiva;<br>
 - Bilheteria Mundial entre outras.
