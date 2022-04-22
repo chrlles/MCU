@@ -9,7 +9,7 @@ Perguntas e respostas sobre os filmes lançados pela Marvel Studios:<br>
  - Bilheteria Mundial entre outras.
 
 Vislualização:<br>
-- __ggplot com o Seaborn__ !!!
+- __ggplot com o Seaborn !!!!!__
 
 
 fonte: https://www.kaggle.com/datasets/davidgdong/marvel-cinematic-universe-box-office-dataset
