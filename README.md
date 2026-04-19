@@ -1,4 +1,5 @@
-# Maiores Receitas e  Bilheterias MCU
+# Maiores Receitas e Bilheterias da Marvel
+Resolvi fazer uma análise dos filmes do Universo Marvel lançados da primeira até a quarta fase.
 <br>
  Pequenos ajustes nos dados: data lançamento / datetime, e pd.to_numeric para converter o formato dos números de bilheteria;<br>
 <hr>
